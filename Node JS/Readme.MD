@@ -10,6 +10,7 @@ Untuk menginstal Node.js, dapat dilakukan dengan cara sebagai berikut:\n\n1. Und
 
 ## Cara Kerja
 
+
 Node.js didesain untuk dapat mengatasi masalah real-time, dengan menggunakan event loop yang non-blocking I/O. Hal ini memungkinkan Node.js dapat menangani banyak koneksi secara bersamaan tanpa menghabiskan banyak memori untuk setiap koneksi.
 
 ## Penggunaan
